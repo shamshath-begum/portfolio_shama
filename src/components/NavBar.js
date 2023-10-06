@@ -14,8 +14,8 @@ function NavBar() {
             </Link>
           </div>
           <div>
-            <Link className="links" to="/education">
-              Education & Experience
+            <Link className="links" to="/skills">
+              Skills
             </Link>
           </div>
           <div>
@@ -24,10 +24,17 @@ function NavBar() {
             </Link>
           </div>
           <div>
-            <Link className="links" to="/skills">
-              Skills
+            <Link className="links" to="/education">
+              Education & Experience
             </Link>
           </div>
+         
+          <div>
+            <Link className="links" to="/contact">
+              Contacts
+            </Link>
+          </div>
+          
           <div>
           <a
             href="https://drive.google.com/file/d/1dRawrhTFDG2p-YLBgl6rqoCSIzK-5zCm/view?usp=share_link"
