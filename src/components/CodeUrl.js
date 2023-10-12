@@ -19,9 +19,9 @@ export const CodeUrl = {
   //E-Com App
   ecomFrontendGit: "https://github.com/shamshath-begum/E_COMMERCE_FSD_FRONTEND.git",
   ecomBackendGit: "https://github.com/shamshath-begum/E_COMMERCE_FSD_BACKEND.git",
-  ecomDeploy: "https://64f32a37e822fe6d7e78c3bd--effervescent-caramel-5a2c99.netlify.app/",
+  ecomDeploy: "https://effervescent-caramel-5a2c99.netlify.app/",   
 
-  githubUrl:"https://github.com/shamshath-begum/Sham",
+  githubUrl:"https://github.com/shamshath-begum",
 
 linkedinUrl:"https://www.linkedin.com/in/shama29/",
   

@@ -119,17 +119,17 @@ function Projects() {
                   mongodb, firebase,pusher sand materialUi
                 </p>
                 <hr />
-                <a href={CodeUrl.whatsAppDeploy} target={CodeUrl.blank}>
+                <a href={CodeUrl.chatAppDeploy} target={CodeUrl.blank}>
                   <Button type="button" variant="danger">
                     Deploy
                   </Button>
                 </a>
-                <a href={CodeUrl.whatsAppFrontendGit} target={CodeUrl.blank}>
+                <a href={CodeUrl.chatAppFrontendGit} target={CodeUrl.blank}>
                   <Button type="button" variant="danger" className="m-1">
                     Source-frontend
                   </Button>
                 </a>
-                <a href={CodeUrl.whatsAppBackendGit} target={CodeUrl.blank}>
+                <a href={CodeUrl.chatAppBackendGit} target={CodeUrl.blank}>
                   <Button type="button" variant="danger">
                     Source-backend
                   </Button>

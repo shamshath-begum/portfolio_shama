@@ -7,13 +7,13 @@ import mongodb from "../Asset/mongo-db.svg";
 import expressLogo from "../Asset/expres-js.png";
 import nodejs from "../Asset/node-logo.svg";
 import ReactImg from "../Asset/react.svg";
-import javaImg from "../Asset/java-logo.png";
-import aws from "../Asset/aws.svg";
+// import javaImg from "../Asset/java-logo.png";
+// import aws from "../Asset/aws.svg";
 import github from "../Asset/github-logo.svg";
 import tailwind from "../Asset/tailwind css.jpg";
 import chakraui from "../Asset/chakra ui.png";
 import reactBootstrapLogo from "../Asset/react-bootstrap.png";
-import skillBanner from "../Asset/skill-banner.jpg";
+// import skillBanner from "../Asset/skill-banner.jpg";
 
 function Skill() {
   return (

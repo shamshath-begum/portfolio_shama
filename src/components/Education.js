@@ -8,7 +8,7 @@ import "react-vertical-timeline-component/style.min.css";
 function Education() {
   return (
     <>
-    <div className="about_header container-fluid py-5" id="about">
+    <div className="about_header container-fluid py-5">
       <h2 className="d-flex justify-content-center about-title my-5">Education</h2>
       &nbsp; &nbsp;
       <div style={{ overflow: "auto" }}>

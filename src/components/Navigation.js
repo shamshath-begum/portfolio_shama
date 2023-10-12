@@ -24,7 +24,7 @@ function Navigation() {
       <Navbar bg="#0E1630" expand="lg">
         <Container fluid>
           {/* <Navbar.Brand style={{ color: "white", fontSize: "2em" }}>
-            <span className="color-green">V</span>ishnu
+            <span className="color-green"></span>
           </Navbar.Brand> */}
           <Navbar.Toggle aria-controls="navbarScroll" />
           <Navbar.Collapse id="navbarScroll">
