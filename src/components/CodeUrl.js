@@ -1,25 +1,25 @@
 export const CodeUrl = {
-  //LEAD GEN
+  //LEAD GEN:
   leadGenFrontendGit: "https://github.com/shamshath-begum/LEAD_GEN_FE.git",
   leadGenBackendGit: "https://github.com/shamshath-begum/LEAD_GEN_BE.git ",
-  leadGenDeploy: "https://lucky-twilight-bec446.netlify.app/",
+  leadGenDeploy: "https://velvety-cascaron-df0d12.netlify.app/",
 
-  //CRUD APP
+  //CRUD APP:
   crudFrontendGit: "https://github.com/shamshath-begum/crud_fe.git",
   crudBackendGit: "https://github.com/shamshath-begum/mern_crud_app_be.git",
-  crudDeploy: "https://64f326935cc9ab6f7745aac7--profound-churros-0fcec0.netlify.app/",
+  crudDeploy: "https://profound-churros-0fcec0.netlify.app/",
 
   // chat app
   chatAppFrontendGit: "https://github.com/shamshath-begum/chatApp.git",
   chatAppBackendGit: "https://github.com/shamshath-begum/chatApp_be.git",
-  chatAppDeploy: "https://651e983869744f0e750867bf--calm-creponne-53401b.netlify.app/",
+  chatAppDeploy: "https://calm-creponne-53401b.netlify.app/",
 
   
 
-  //E-Com App
+  //E-Com App:
   ecomFrontendGit: "https://github.com/shamshath-begum/E_COMMERCE_FSD_FRONTEND.git",
   ecomBackendGit: "https://github.com/shamshath-begum/E_COMMERCE_FSD_BACKEND.git",
-  ecomDeploy: "https://effervescent-caramel-5a2c99.netlify.app/",   
+  ecomDeploy: "https://thriving-jalebi-5f38c8.netlify.app/",   
 
   githubUrl:"https://github.com/shamshath-begum",
 
