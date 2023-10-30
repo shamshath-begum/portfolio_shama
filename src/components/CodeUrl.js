@@ -27,7 +27,7 @@ linkedinUrl:"https://www.linkedin.com/in/shama29/",
   
   blank: "_blank",
 
-  //resume urls
+  
   resume:
-    " https://drive.google.com/file/d/1dRawrhTFDG2p-YLBgl6rqoCSIzK-5zCm/view?usp=share_link",
+    "https://drive.google.com/file/d/1jnM45UQCdYBiZS-NIXdWRrc73ss6EwgS/view",
 };

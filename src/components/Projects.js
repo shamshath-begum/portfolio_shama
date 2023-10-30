@@ -116,7 +116,7 @@ function Projects() {
                 <h1>Chat App</h1>
                 <p>
                   In this project i have used react-js,node-js,express-js,
-                  mongodb, firebase,pusher sand materialUi
+                  mongodb,io socket,cloudinary to upload profile.
                 </p>
                 <hr />
                 <a href={CodeUrl.chatAppDeploy} target={CodeUrl.blank}>
