@@ -19,7 +19,7 @@ export const CodeUrl = {
   //E-Com App:
   ecomFrontendGit: "https://github.com/shamshath-begum/E_COMMERCE_FSD_FRONTEND.git",
   ecomBackendGit: "https://github.com/shamshath-begum/E_COMMERCE_FSD_BACKEND.git",
-  ecomDeploy: "https://tubular-paletas-df757b.netlify.app/home",   
+  ecomDeploy: "https://tubular-paletas-df757b.netlify.app/",   
 
   githubUrl:"https://github.com/shamshath-begum",
 
